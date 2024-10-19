@@ -1,4 +1,4 @@
-# Desafio DevOps - Infraestrutura como Código com Terraform
+# Desafio Prático | Estágio em DevOps | VExpenses 💻
 
 ## Análise Técnica do Código Original
 
